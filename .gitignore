@@ -1,0 +1,12 @@
+jaeger/
+jaeger-data/
+dockprom/
+elasticsearch/
+prometheus.yml.backup
+esdatadir
+data/
+jaeger.yml
+node_cadvisor.yml.backup
+monitoring.yml.backup
+monitoring.yml.backup
+docker-compose.yml
